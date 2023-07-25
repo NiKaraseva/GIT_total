@@ -2,6 +2,7 @@ from random import randint as rnd
 
 degree = int(input('Введите максимальную степень многочлена: '))
 
+
 equation_pattern = {}
 for key in range(degree, -1, -1):
     value = rnd(-100, 100)
