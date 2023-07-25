@@ -1,6 +1,5 @@
 from random import randint as rnd
 
-
 degree = int(input('Введите максимальную степень многочлена: '))
 
 equation_pattern = {}
