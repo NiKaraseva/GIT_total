@@ -57,4 +57,6 @@ def decode_equation(equation: dict) -> str: # подсказка, какой т�
 
 equation = decode_equation(equation_pattern)
 
+print(equation)
+
 
